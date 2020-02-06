@@ -1,6 +1,6 @@
 # Excel Transaction
 
-This application can help the user to easily make import transactions from excel files to the CMS system.
+This application can help the user to easily import transactions from excel files to the CMS system.
 
 ## Requirement
 
