@@ -1,0 +1,27 @@
+{
+  "name": "exceltransactiontoserver",
+  "version": "1.0.0",
+  "description": "This app for input Deposit and Withdraw Transaction from Excel file to server directly",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Konthea",
+  "license": "ISC",
+  "dependencies": {
+    "cli-progress": "^3.5.0",
+    "cli-table": "^0.3.1",
+    "colors": "^1.4.0",
+    "console-read-write": "^0.1.1",
+    "console.table": "^0.10.0",
+    "cowsay": "^1.4.0",
+    "moment": "^2.24.0",
+    "mysql": "^2.17.1",
+    "mysql-async-wrapper": "^2.0.0",
+    "mysqldump": "^3.1.0",
+    "node-mysql-transaction": "^0.2.1",
+    "open-file-explorer": "^1.0.2",
+    "xlsx": "^0.15.4",
+    "yargs": "^15.1.0"
+  }
+}
