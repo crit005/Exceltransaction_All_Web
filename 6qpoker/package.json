@@ -15,7 +15,7 @@
     "console-read-write": "^0.1.1",
     "console.table": "^0.10.0",
     "cowsay": "^1.4.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "mysql": "^2.17.1",
     "mysql-async-wrapper": "^2.0.0",
     "mysqldump": "^3.1.0",
